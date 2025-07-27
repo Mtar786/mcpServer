@@ -2,6 +2,10 @@
 
 This repository contains a minimal [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server written in Node.js. The server exposes two simple tools that can be called from AI assistants (such as Claude Desktop or Cursor) via the MCP standard.
 
+<a href="https://glama.ai/mcp/servers/@Mtar786/mcpServer">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Mtar786/mcpServer/badge" alt="Example Server MCP server" />
+</a>
+
 ## Tools provided
 
 | Tool name | Description | Parameters | Return value |
