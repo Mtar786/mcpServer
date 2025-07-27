@@ -1,9 +1,0 @@
-{
-  "mcpServers": {
-    "example-mcp-server": {
-      "command": "node",
-      "args": ["C:\\Users\\fayyi\\Downloads\\mcp-server-updated\\index.js"],
-      "cwd": "C:\\Users\\fayyi\\Downloads\\mcp-server-updated"
-    }
-  }
-}
